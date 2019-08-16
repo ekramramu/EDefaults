@@ -1,0 +1,16 @@
+PODS:
+  - EDefaults (1.0.0)
+
+DEPENDENCIES:
+  - EDefaults (from `../EDefaults/`)
+
+EXTERNAL SOURCES:
+  EDefaults:
+    :path: "../EDefaults/"
+
+SPEC CHECKSUMS:
+  EDefaults: d80771d1546d665e44a656438c0ebae5d75c9c14
+
+PODFILE CHECKSUM: 50e9eb4be4eae8bbded2ee5021f671cc8b860773
+
+COCOAPODS: 1.7.5

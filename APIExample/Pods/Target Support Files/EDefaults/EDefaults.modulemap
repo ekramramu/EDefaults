@@ -1,0 +1,6 @@
+framework module EDefaults {
+  umbrella header "EDefaults-umbrella.h"
+
+  export *
+  module * { export * }
+}
