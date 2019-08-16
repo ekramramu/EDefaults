@@ -3,7 +3,7 @@ User Defults
 
 ### CocoaPods
 
-Use the CocoaPod `SwiftGraph`.
+Use the CocoaPod `EDefaults`.
 
 ## Usage
 
