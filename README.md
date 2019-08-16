@@ -18,8 +18,7 @@ import EDefaults
 ```Defaults.shared.saveObject(object: token, key: tokenKey)
 ```
 
-```
-let token = Defaults.shared.get(key: tokenKey)
+```let token = Defaults.shared.get(key: tokenKey)
 print("the token is : \(token!)")
 ```
 
