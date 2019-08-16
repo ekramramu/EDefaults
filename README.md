@@ -16,11 +16,16 @@ import EDefaults
 ## Example
 
 Saving String
-```Defaults.shared.saveObject(object: token, key: tokenKey)
+
+```
+Defaults.shared.saveObject(object: token, key: tokenKey)
+
 ```
 Retriving data 
-```let token = Defaults.shared.get(key: tokenKey)
+```
+let token = Defaults.shared.get(key: tokenKey)
 print("the token is : \(token!)")
+
 ```
 
 
