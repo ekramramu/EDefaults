@@ -5,6 +5,10 @@ User Defults
 
 Use the CocoaPod `EDefaults`.
 
+## Install 
+
+`pod 'EDefaults'`
+
 ## Usage
 
 Start by importing the package:
